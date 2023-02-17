@@ -1,0 +1,2 @@
+com/codegym/dethimodule4/DeThiModule4ApplicationTests.java
+ com.codegym.dethimodule4.DeThiModule4ApplicationTests
